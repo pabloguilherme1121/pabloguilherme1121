@@ -12,6 +12,16 @@ Desenvolvo **sites e aplicações web**, com projetos públicos em React, TypeSc
 | **PG-Arcade** | Jogos no navegador, interfaces interativas e controles por teclado e toque | [Site](https://pabloguilherme1121.github.io/PG-Arcade/) · [Código](https://github.com/pabloguilherme1121/PG-Arcade) |
 | **Observatório Eleitoral · Goiás** | Consulta independente de dados públicos, filtros e comparação de candidaturas; base datada, sem apuração ao vivo | [Site](https://pabloguilherme1121.github.io/eleicoes-goias-2026/) · [Código](https://github.com/pabloguilherme1121/eleicoes-goias-2026) |
 
+## Outros projetos por área
+
+| Área | Projeto | Contexto |
+| --- | --- | --- |
+| Informação pública | [Observatório de Águas Lindas](https://github.com/Pabloguilherme01/observatorio) | Indicadores municipais, serviços e leitura de dados com fontes e períodos identificados |
+| Mobilidade e serviços | [Trajeto](https://github.com/Pabloguilherme01/trajeto-web) | Plataforma de utilidade pública e mobilidade para Águas Lindas e o Entorno do DF |
+| Mapas cívicos | [Mapa Planaltina GO](https://github.com/Pabloguilherme01/mapa-planaltina-go) | Mapa com registros classificados por procedência; dados colaborativos não equivalem a verificação oficial |
+
+Esses projetos estão em evolução. Consulte o README de cada repositório para conferir o estado dos dados, as instruções e as limitações. Os links acima apontam para o código; não representam validação de uma nova publicação.
+
 ## Tecnologias presentes nos meus projetos
 
 React · TypeScript · JavaScript · HTML · CSS · Vite · GitHub Actions
