@@ -31,3 +31,9 @@ Os repositórios documentam as tecnologias, os testes e os limites de cada proje
 ## Vamos conversar?
 
 Tem uma ideia para um site, precisa organizar informações ou quer conversar sobre uma oportunidade em desenvolvimento web? [Conheça meu portfólio e acesse o contato](https://pabloguilherme1121.github.io/PG-portfolio/#contato).
+
+## PG Bot
+
+<img src="assets/pg-bot.webp" alt="PG Bot, robô de carcaça clara, detalhes azuis e olhos ciano" width="48" height="56" />
+
+Meu mascote acompanha a identidade dos projetos PG Tech. Conheça os projetos pelos links acima.
