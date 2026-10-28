@@ -1,6 +1,8 @@
 # Olá, eu sou Pablo Guilherme
 
-Desenvolvo **sites e aplicações web**, com projetos públicos em React, TypeScript e JavaScript. Meu foco é transformar informação em interfaces claras, responsivas e fáceis de usar.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e também trabalho com **produção audiovisual** (captação, drone e edição). Desenvolvo sites e aplicações web com foco em usabilidade, acessibilidade, desempenho mobile e testes. Aqui reúno produtos publicados e projetos em evolução, deixando claros seus objetivos, evidências e limitações.
+
+Tenho interesse em oportunidades de **desenvolvimento frontend** e projetos que aproximem tecnologia, dados e produção audiovisual.
 
 [Portfólio](https://pabloguilherme1121.github.io/PG-portfolio/) · [LinkedIn](https://www.linkedin.com/in/pablo-guilherme-6a0b7032b/) · [Instagram · Apps com IA](https://www.instagram.com/pablo.builds.ia/)
 
@@ -26,7 +28,7 @@ Esses projetos estão em evolução. Consulte o README de cada repositório para
 
 ## Tecnologias presentes nos meus projetos
 
-React · TypeScript · JavaScript · HTML · CSS · Vite · GitHub Actions
+React · TypeScript · JavaScript · HTML · CSS · Vite · Playwright · GitHub Actions
 
 Os repositórios documentam as tecnologias, os testes e os limites de cada projeto. As demonstrações públicas ajudam a conferir a experiência além do código.
 
